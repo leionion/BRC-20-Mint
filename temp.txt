@@ -1,0 +1,12 @@
+1. pool socket
+    - pool address
+    - rune ID
+    - rune amount
+    - btc amount
+    - created at
+2. tx info socket
+    - created at
+    - rune amount / name
+    - btc amount
+    - user address
+    - buy / sell
